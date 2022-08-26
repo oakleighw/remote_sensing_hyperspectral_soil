@@ -10,6 +10,7 @@
 
 ## dataset.ipynb
 - This builds on the 'starter pack' supplied by the challenge (A competition to accurately predict soil parameters [k, P, Mg, pH] using the hyperspectral imagery).
+https://platform.ai4eo.eu/seeing-beyond-the-visible/data
 - Visualises ground truth values.
 <p align="center">
   <img src = "/imgs/groundTruth.jpg" alt="ground truth variable values histogram" width="600" img align="middle" />
